@@ -9,7 +9,7 @@ A single-layer perceptron trained on the OR gate, visualized through an interact
 - **Training Loss Curve** — convergence visualization across 5 000 epochs
 - **Learned Parameters** — view the exact weights and bias
 
-## Quick Start
+## Quick start
 
 ```bash
 # 1. Install dependencies
